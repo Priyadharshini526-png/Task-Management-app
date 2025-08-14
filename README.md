@@ -1,6 +1,6 @@
-==============================
-          TASK MANAGEMENT APP
-==============================
+
+TASK MANAGEMENT APP
+=================================
 
 A simple and responsive **Task Management App** built with **React** and **Tailwind CSS**. Manage your tasks efficiently with the ability to **add, edit, delete, and organize tasks**.
 
