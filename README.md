@@ -18,11 +18,11 @@ FEATURES
 TECH STACK
 ----------------------------------
 
-- **Frontend:** React, Tailwind CSS  
+- **Frontend:**Vite+React, Tailwind CSS  
 - **State Management:** React Hooks / Local Storage  
 
 ----------------------------------
 LIVE DEMO
 ----------------------------------
 
-[https://task-management-app.vercel.app](https://task-management-app.vercel.app)  
+[https://task-management-app.vercel.app](https://taskdeck123.vercel.app/)  
